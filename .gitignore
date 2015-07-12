@@ -24,6 +24,10 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+# incluido en la practica
+node_modules
+npm-debug.log
+
 .DS_Store
 .AppleDouble
 .LSOverride
